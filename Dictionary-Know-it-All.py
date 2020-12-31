@@ -1,4 +1,4 @@
-import json #Importing the json libraryy
+import json #Importing the json library
 from difflib import get_close_matches #Importing the function from the library for the closest word search
 data=json.load(open("dictionary.json")) #Converting the json file into a dictionary(Python jargon)
 print()
@@ -32,7 +32,7 @@ while True:
             print("You have given a word that doesn't list in our Dictionary, or you may have inputted Wrong.")
             continue
         else:
-            while d not in respos or resneg: #Looping if the user entered something else other than yes or no 
+            while d not in respos or resneg: #Looping, if the user entered something else other than yes or no 
                                              #or something not in either Positive responses ot Negative responses
                 print()
                 print("Sorry I didn't get that !")
