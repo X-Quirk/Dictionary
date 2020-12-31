@@ -8,4 +8,3 @@ This a Dictionary created using Python3.This Script is called Know it all also n
 
 # 
 Feel free to change the the Code according to your needs 
-qwaedtghjio
