@@ -1,4 +1,4 @@
-import json #Importing the json library
+import json #Importing the json libraryy
 from difflib import get_close_matches #Importing the function from the library for the closest word search
 data=json.load(open("dictionary.json")) #Converting the json file into a dictionary(Python jargon)
 print()
