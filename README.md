@@ -3,7 +3,7 @@ This is a simple Dictionary created using Python3.This Script is called Know it 
 
 # How to use it 
 1. Download or copy the `Dictionary-Know-it-All.py` file and the `dictionary.json` file
-2. Place bothe the above file in the same folder
+2. Place both the above file in the same folder
 3. Run the `Dictionary-Know-it-All.py` Script
 4. To edit the code open it in a Text Editor or the appropriate software you prefer and make the changes neccesary
 5. All the logic i implemented are expalined as comments in the `Dictionary-Know-it-All.py` Script
