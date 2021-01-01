@@ -18,7 +18,7 @@ while True:
         print(listToStr) 
     elif(len(get_close_matches(word,data.keys()))>0): #If searched word was not found in the Dictionary
                                                       #Checking if there exists atleast one closely related word
-        print("Did you mean {} instead ? Y/N".format(get_close_matches(word,data.keys())[0])) #Asking if the first closely related word is the word if meant
+        print("Did you mean {} instead ? Y/N".format(get_close_matches(word,data.keys())[0])) #Asking if the first closely related word is the word user meant
         d=input() #Input yes or no
         if d in respos: #Checking if response is in Positive Responses
             word=get_close_matches(word,data.keys())[0] #Finding the first closely related word
