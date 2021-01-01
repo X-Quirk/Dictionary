@@ -2,9 +2,12 @@
 This is a simple Dictionary created using Python3.This Script is called Know it all also nicknamed as Smarty Pants. This Script asks you to search for a word and it provides you it's meaning . This Script searches for the word in a json file namely `dictionary.json`. If the word you searched for does not exist in our Dictionary, or perhaps made a mistake, it will display the next closest word related to it , if still is unable to find, it will display a error message about 'word not found'. You can only exit the running program only when you provide a negative response (such as no, never, nope, n etc) if provided with a positive response (such as yes, yeah, yep, y etc) you will be asked to search for a new word and so on.
 
 # How to use it 
-1. Paste the Code/Script in the same folder as the json file
-2. Execute the Script
-3. Search for the word and get it's meaning
+1. Download or copy the `Dictionary-Know-it-All.py` file and the `dictionary.json` file
+2. Place bothe the above file in the same folder
+3. Run the `Dictionary-Know-it-All.py` Script
+4. To edit the code open it in a Text Editor or the appropriate software you prefer and make the changes neccesary
+5. All the logic i implemented are expalined as comments in the `Dictionary-Know-it-All.py` Script
+6. Not advised to run the `dictionary.json` json file, it's pretty huge
 
 # 
 Feel free to change the the Code according to your needs 
