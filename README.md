@@ -9,5 +9,9 @@ This is a simple Dictionary created using Python3.This Script is called Know it 
 5. All the logic i implemented are explained as comments in the `Dictionary-Know-it-All.py` Script
 6. Not advised to run the `dictionary.json` json file, it's pretty huge
 
+# Note
+You need to have the Python3 Interpreter installed to run the script. <br/>
+If you want to, you can download the Python3 Interpreter from [here](https://www.python.org/downloads/).<br/>
+
 # 
 Feel free to change the the Code according to your needs 
