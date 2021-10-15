@@ -1,5 +1,5 @@
 # Dictionary
-This is a simple Dictionary created using Python3.This Script is called Know it all also nicknamed as Smarty Pants. This Script asks you to search for a word and it provides you it's meaning . This Script searches for the word in a json file namely `dictionary.json`. If the word you searched for does not exist in our Dictionary, or perhaps made a mistake, it will display the next closest word related to it , if still is unable to find, it will display an error message about 'word not found'. You can only exit the running program only when you provide a negative response (such as no, never, nope, n etc), if provided with a positive response (such as yes, yeah, yep, y etc) you will be asked to search for a new word and so on, also you can force exit by clicking the close window.
+This is a simple Dictionary created using Python3. This Script asks you to search for a word and it provides you it's meaning . This Script searches for the word in a json file namely `dictionary.json`. If the word you searched for does not exist in our Dictionary, or perhaps made a mistake, it will display the next closest word related to it , if still is unable to find, it will display an error message about 'word not found'. You can only exit the running program only when you provide a negative response (such as no, never, nope, n etc), if provided with a positive response (such as yes, yeah, yep, y etc) you will be asked to search for a new word and so on, also you can force exit by clicking the close window.
 
 # How to use it 
 1. Download or copy the `Dictionary-Know-it-All.py` file and the `dictionary.json` file
@@ -11,7 +11,7 @@ This is a simple Dictionary created using Python3.This Script is called Know it 
 
 # Note
 You need to have the Python3 Interpreter installed to run the script. <br/>
-If you want to, you can download the Python3 Interpreter from [here](https://www.python.org/downloads/).<br/>
+If you want to, you can download the `Python3 Interpreter` from [`here`](https://www.python.org/downloads/).<br/>
 
 # 
 Feel free to change the the Code according to your needs 
